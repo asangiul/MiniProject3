@@ -1,0 +1,12 @@
+WOCProjectID,ProjectOwnerNetID,ValidatorNetID,Field,AuthorValue,ValidatorValue,AdjudicatedValue,ResolutionType,PostDiscussAgreementStatus,KeyEvidence,Comments
+https://github.com/barbagroup/aeropython,kbc177,asangiul,HasRecovered,Partial,No,No,ValidatorKept,Yes,Noticed it was taken offline,Agreed
+https://github.com/brian-team/brian2genn,kbc177,asangiul,HasRecovered,Yes,No,No,ValidatorKept,Yes,Saw the commit didnt actually work,Agreed
+https://github.com/yeatmanlab/AFQ-Browser,kbc177,asangiul,HasRecovered,Partial,No,No,ValidatorKept,Yes,Saw they moved the project,Agreed
+https://github.com/brian-team/brian2genn,kbc177,asangiul,ActivityPattern,Increasing,Decreasing,Decreasing,ValidatorKept,Yes,Agreed of decreasing slope overall,Agreed
+https://github.com/LLNL/hiop,kbc177,asangiul,ActivityPattern,Increasing,Decreasing,Decreasing,ValidatorKept,Yes,Also agreed it was decreasing,Agreed
+https://github.com/magic-sph/magic,kbc177,asangiul,ActivityPattern,Increasing,Decreasing,Decreasing,ValidatorKept,Yes,Agreed with the slope I explained,Agreed
+https://github.com/InsightSoftwareConsortium/SimpleITK-Notebooks,kbc177,asangiul,RecentThemes,Documentation updates:Other,Documentation updates:Bug fixes,Documentation updates:Bug fixes,ValidatorKept,Yes,Agreed with the change of adding bug fixes,Agreed
+https://github.com/yeatmanlab/AFQ-Browser,kbc177,asangiul,RecentThemes,Documentation updates:Other,Other,Other,ValidatorKept,Yes,Noticed the project moved,Agreed
+,,,,,,,,,,Agreed
+https://github.com/pmelchior/scarlet,asangiul,kbc177,Currentstatus,Active,Inactive,Inactive,ValidatorKept,Yes,Last commit was 2 years ago = inactive,Fixed
+https://github.com/OpenIntroStat/openintro,asangiul,kbc178,Currentstatus,Inactive,Active,Active,ValidatorKept,Yes,Last commit was 2 months ago = Active,Fixed
